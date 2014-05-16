@@ -28,3 +28,10 @@ License
 =============
 
 It's MIT, and designed more as code to learn from, than code to be used in any projects, I don't have any problems with this however.
+
+Example
+=============
+
+![Heightmap Image](https://dl.dropboxusercontent.com/u/16266581/terrain03.png "Model Input")
+
+![Heightmap Exported](https://dl.dropboxusercontent.com/u/16266581/terrain01.png "Model Output")
